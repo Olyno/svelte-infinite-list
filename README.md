@@ -1,5 +1,7 @@
 # svelte-infinite-list
 
+[![GitHub license](https://img.shields.io/github/license/Olyno/svelte-infinite-list?style=for-the-badge)](https://github.com/Olyno/svelte-infinite-list)
+
 Create an infinite list of items with optimized rendering.
 
 ## Installation
